@@ -9,7 +9,11 @@ This script allows you to create daily circadian events in your Google Calendar 
 - Color-coded events for easier identification.
 - Deletes previously generated events before creating new ones to avoid duplicates.
 - Uses the [Sunrise-Sunset API](https://sunrise-sunset.org/api) to get the sunrise time based on your location.
-  
+
+## How it looks like:
+<img src="https://github.com/user-attachments/assets/cc556b6a-1306-45f1-8102-eba376ecb096" width="400" />
+
+
 ## Event Schedule
 
 Here is the daily schedule of events created by the script:
